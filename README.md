@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robsonfigueiredo-epro
 - 👀 I’m interested in testing area
 - 🌱 I'm currently studying Software Engineering 
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on automated tests
 - 📫 How to reach me https://www.linkedin.com/in/robson-figueiredo-epro/
 
 <!---
