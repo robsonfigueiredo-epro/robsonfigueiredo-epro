@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robsonfigueiredo-epro
-- 👀 I’m interested in Front-End Engineering
-- 🌱 I'm currently studying Software Engineering at Estacio de Sa University 
+- 👀 I’m interested in testing area
+- 🌱 I'm currently studying Software Engineering 
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me https://www.linkedin.com/in/robson-figueiredo-epro/
 
